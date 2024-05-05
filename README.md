@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning about the latest AI and emerging technologies, as well as their practical applications in various industries.
 - 💞️ I'm looking to collaborate on projects focused on AI implementation, process optimization, and organizational change.
 - 📫 How to reach me:
-    - Email: mail.ritubagga@gmail.com
+    - Email: bagga.ritu94@gmail.com
     - LinkedIn: https://www.linkedin.com/in/ritu-bagga/
     - Calendly (for scheduling calls): https://calendly.com/ritu-bagga/30min
 - 😄 Pronouns: She/Her
